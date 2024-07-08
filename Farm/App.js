@@ -54,6 +54,7 @@ function App() {
         <Route path ="/PaymentPage" element={<PaymentPage/>}/>
         <Route path="/Temple" element={<TemplePage />} />
           <Route path="/Cancel" element={<Cancel />} />   
+  
           <Route path="/ordertracking" element={<OrderTracking />} />
             
         
